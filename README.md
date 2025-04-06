@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **Stock Management and Online Selling System** designed for GBCN (Great Business Consulting Network). It aims to help manage inventory, facilitate online sales, and provide business owners with comprehensive reports on sales and inventory levels.
+This project is a **Stock Management and Online Selling System** designed for GBCN (Global Business Center Ngueminta). It aims to help manage inventory, facilitate online sales, and provide business owners with comprehensive reports on sales and inventory levels.
 
 ## Table of Contents
 
