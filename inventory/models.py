@@ -1,5 +1,4 @@
 from django.db import models
-from django.utils import timezone  # Import timezone from django.utils
 
 class Category(models.Model):
     name = models.CharField(max_length=100, unique=True)
